@@ -1,1 +1,1 @@
-# test-project
+# this is test project to check git congig
